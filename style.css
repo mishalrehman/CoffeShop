@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial;
+    background: #f5eee6;
+    color: #3e2723;
+    text-align: center;
+    margin: 0;
+}
+
+header {
+    background: #3e2723;
+    color: white;
+    padding: 20px;
+}
+
+header a {
+    color: white;
+    margin: 15px;
+}
+
+.hero {
+    background: #795548;
+    color: white;
+    padding: 60px;
+}
+
+.product {
+    background: white;
+    padding: 20px;
+    margin: 15px auto;
+    width: 250px;
+    border-radius: 10px;
+}
+
+button {
+    background: #d7a45b;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#cart {
+    padding: 30px;
+}
